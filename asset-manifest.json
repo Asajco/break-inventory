@@ -1,14 +1,14 @@
 {
   "files": {
     "main.css": "/break-inventory/static/css/main.5f93e485.css",
-    "main.js": "/break-inventory/static/js/main.449cd8bf.js",
+    "main.js": "/break-inventory/static/js/main.fd7c4616.js",
     "static/media/break.jpeg": "/break-inventory/static/media/break.84f96783084e243ea5f6.jpeg",
     "index.html": "/break-inventory/index.html",
     "main.5f93e485.css.map": "/break-inventory/static/css/main.5f93e485.css.map",
-    "main.449cd8bf.js.map": "/break-inventory/static/js/main.449cd8bf.js.map"
+    "main.fd7c4616.js.map": "/break-inventory/static/js/main.fd7c4616.js.map"
   },
   "entrypoints": [
     "static/css/main.5f93e485.css",
-    "static/js/main.449cd8bf.js"
+    "static/js/main.fd7c4616.js"
   ]
 }
